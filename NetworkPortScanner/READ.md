@@ -22,10 +22,10 @@ A Python-based network port scanner that allows users to scan open, closed, and 
 ## 📦 Installation
 
 1. **Clone the repo**
-   ```bash
-   git clone https://github.com/themanojgh/codmetric-internship-cybersecurity-analyst-internship/NetworkPortScanner.git
-   cd NetworkPortScanner
-
+```bash
+   git clone https://github.com/yourusername/codmetric-internship-cybersecurity-analyst-internship.git
+  cd codmetric-internship-cybersecurity-analyst-internship
+```
 2. **Install dependencies**
    ```bash
    pip install reportlab
